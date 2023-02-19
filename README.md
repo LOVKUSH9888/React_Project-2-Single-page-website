@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#In this I took video-Lecture of ^-pack programmer to get started 
 # React_Project-2-Single-page-website
 This is the basic project I am making for learning &amp; understanding REACT
 =======
